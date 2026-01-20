@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**konfla97/konfla97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Konstantinos 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Data Analyst** with a strong background in **Mathematics** and **Business Analytics**, specializing in **predictive analytics and financial risk**.
+
+🎓 **Education**
+- MSc in Business Analytics (Financial Risk Management)
+- BSc in Mathematics (Probability, Statistics & Operations Research)
+
+💼 **Experience**
+- Data Analyst Intern — predictive modeling, forecasting, KPI dashboards
+- Built ML models (XGBoost) and analytics solutions for operational decision-making
+
+💻 **Technical Skills**
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (CTEs, window functions, database design)
+- R
+- Power BI
+- Statistical modeling & machine learning
+
+📊 **What you’ll find here**
+- SQL & Python data analysis projects
+- Financial analytics & risk modeling case studies
+- End-to-end analytics workflows using real-world data
+
+🔗 **Connect with me**
+- LinkedIn: https://www.linkedin.com/in/konstantinos-flampouris-00102123a/
